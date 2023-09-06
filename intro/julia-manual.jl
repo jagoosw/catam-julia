@@ -58,7 +58,7 @@ To use Julia, two elements are required: Julia itself, and an editor to allow yo
 
 Julia is a standalone program downloaded from <https://julialang.org/downloads/>
 - For most Windows users, the version to download will be the 64-bit (installer). Once downloaded, run the installer, making sure to check the **Add Julia to PATH** box (which will allow the editor to find it)
-- For Mac users there is no such paralysis of choice, the single Mac download link is the one you want
+- For Mac users, you need to check which CPU architecture your computer has. If it is newer it is likely to be Apple Silicon otherwise Intel (if you don't know [this guide](https://www.howtogeek.com/706226/how-to-check-if-your-mac-is-using-an-intel-or-apple-silicon-processor/) explains how to check). Chose the appropriate download and run the installer.
 - For Linux users, you know what you're doing anyway
 Additional platform specific information can be found at <https://julialang.org/downloads/platform/>
 
